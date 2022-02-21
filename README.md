@@ -1,5 +1,4 @@
-# Differential_Expression_analysis
-Differential Expression Analysis of the projection neurons in the olfactory bulb.
+# Differential Expression Analysis of the projection neurons in the olfactory bulb.
 
 We find genetic differences of projection neurons using dimensionality reduction techniques and unsupervised machine learning algorithms. The results of the algorithm with the experimental verification is published in https://www.jneurosci.org/content/41/30/6449.abstract 
 
